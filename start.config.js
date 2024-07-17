@@ -6,7 +6,7 @@ Build: {
 RollupOptions: {
 Input: {
 Main: Resolve(__dirname, "index.html"),
-News: Resolve(__dirname, "extra_pages/blog.html"),
+blog: Resolve(__dirname, "blog.html"),
 },
     },
   },
