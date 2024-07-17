@@ -1,11 +1,9 @@
 {
-  "name": "tailwind-css-first-projects",
+  "name": "tailwind-tutorial",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "vite"
-    
-    
   },
   "keywords": [],
   "author": "",
